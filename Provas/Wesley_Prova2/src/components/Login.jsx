@@ -5,7 +5,7 @@ export default function Login() {
   const [senha, setSenha] = useState('');
   const [logado, setLogado] = useState(false);
 
-  const senhaCorreta = 'WESLEYlindo';//DEFINIR PREVIAMENTE A SENHA
+  const senhaCorreta = 'PIUprova';//DEFINIR PREVIAMENTE A SENHA
   
 
 const enviar = (e) => {
