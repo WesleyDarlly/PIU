@@ -133,7 +133,7 @@ export default function Form() {
           </tbody>
         </table>
       ) : (
-        <p>Nenhuma tarefa adicionada.</p>
+        <p>Nenhuma tarefa adicionada</p>
       )}
     </>
   );
